@@ -1,0 +1,22 @@
+{
+  "name": "@bangbdooy007/adp-id",
+  "version": "1.0.0",
+  "description": "coba tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangbdoy007/ADP-ID.git"
+  },
+  "keywords": [
+    "adp"
+  ],
+  "author": "bangbdoy007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bangbdoy007/ADP-ID/issues"
+  },
+  "homepage": "https://github.com/bangbdoy007/ADP-ID#readme"
+}
